@@ -40,6 +40,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
         imageLight.setOnClickListener(this);
         switchOnTheLight.setOnClickListener(this);
+//        System.out.println("iuio");
 
     }
 
